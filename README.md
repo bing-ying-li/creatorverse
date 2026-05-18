@@ -36,7 +36,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-  <source src="vite-project\public\Animation.gif" type="video/mp4" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+  <img src="vite-project\public\Animation.gif" type="video/mp4" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <!-- Replace this with whatever GIF tool you used! -->
 
 GIF created with ScreenToGif
